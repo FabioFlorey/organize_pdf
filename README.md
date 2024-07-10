@@ -97,7 +97,7 @@ Questo progetto è concesso sotto la Licenza MIT - vedi il file [LICENSE](LICENS
 
 ## Contatti
 
-Per domande o suggerimenti, contattami all'indirizzo [tuo-email@example.com](mailto:fabioflorey@icloud.com).
+Per domande o suggerimenti, contattami a [questo](mailto:fabioflorey@icloud.com) indirizzo.
 
 ---
 
