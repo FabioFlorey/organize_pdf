@@ -30,7 +30,7 @@ Prima di eseguire il programma, assicurati di avere Python 3.8 o superiore insta
 2. **Crea un Ambiente Virtuale**
 
    `python -m venv venv`
-   `source venv/bin/activate`, mentre su Windows usa `venv\Scripts\activate``
+   `source venv/bin/activate`, mentre su Windows usa `venv\Scripts\activate`
 
 4. **Installa le Dipendenze**
 
